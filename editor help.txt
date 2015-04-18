@@ -1,0 +1,32 @@
+E 		: enter edit tile mode
+-------------------------------
+while in edit tile mode:
+
+0-9   	: choose a base lighting
+C		: change the selected tiles base lighting to the current base lighting
+SPACE 	: place the current tile with the current base lighting
+R		: rotate the current tile
+Q		: select the next tile in the current tile set
+F		: swap to the other world tile set
+L		: toggle lighting effects
+S		: save the level
+
+
+
+T 		: enter edit entity mode
+-------------------------------
+while in edit entity mode
+
+0-9		: choose the delay on the current trigger
+P		: move the player
+O		: place an orb
+I		: place a ghoul
+U		: move the assistant
+BACKSPCE: delete all selected entities
+D		: place a door trigger
+W		: add a marker for the last placed door
+B		: place a breaker
+V		: place a marker for the last placed breaker
+L		: toggle lighting effects
+R		: rotate the placement of triggers
+S		: save the level
